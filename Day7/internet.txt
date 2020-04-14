@@ -1,0 +1,13 @@
+internet and Internet
+
+
+CRUD ---> Create Read Update Delete
+
+
+Create -->  Post
+
+Read   -->  Get
+
+Update -->  Put
+
+Delete -->  Delete
